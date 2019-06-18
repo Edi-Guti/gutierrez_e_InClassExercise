@@ -1,6 +1,6 @@
 ![TRAA LOGO](images/traa_logo.jpg)
 
-# TRAA MIdterm Review
+# TRAA Midterm Review
 
 Going over some stuff that almost everyone got slightly wrong.
 
@@ -37,8 +37,8 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+Edi Gutierrez 
+[@EdiGutierrez](https://www.pinterest.ca/)
 
 ## License
 
