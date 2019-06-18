@@ -1,3 +1,5 @@
+![TRAA LOGO](images/traa_logo.jpg)
+
 # TRAA MIdterm Review
 
 Going over some stuff that almost everyone got slightly wrong.
