@@ -10,7 +10,7 @@ Fixing some common problems.
 
 ### Dependencies
 
-Uses CSS3 and HTML5 latest features. Be sure to prefix and bleeding-edge rules, tags, etc (see caniuse for reference). Also using latest ES6/next, you should probably think about inclding Bable for transportation (or an NPM script).
+Uses CSS3 and HTML5 latest features. Be sure to prefix and bleeding-edge rules, tags, etc (see [caniuse](http://caniuse.com) for reference). Also using latest ES6/next, you should probably think about inclding Bable for transportation (or an NPM script).
 
 ### Installing
 
